@@ -82,7 +82,7 @@ nav {
 .hero-btn {
   display: flex;
   gap: 20px;
-  flex-wrap:;
+  flex-wrap: wrap;
 }
 .btn {
   padding: 14px 32px;
